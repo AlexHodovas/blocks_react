@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`full App renders correctly 1`] = `
+<div
+  className="sc-AxiKw eoHjAy"
+  onDragStart={[Function]}
+  onMouseDown={[Function]}
+>
+  <table
+    className="table"
+    onMouseEnter={[Function]}
+  >
+    <tbody>
+      <tr
+        onMouseOver={[Function]}
+      >
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+      </tr>
+      <tr
+        onMouseOver={[Function]}
+      >
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+      </tr>
+      <tr
+        onMouseOver={[Function]}
+      >
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+      </tr>
+      <tr
+        onMouseOver={[Function]}
+      >
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+        <td
+          className="td"
+          onMouseOver={[Function]}
+        />
+      </tr>
+    </tbody>
+  </table>
+  <div
+    className="sc-AxjAm ebUBhh"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="sc-AxirZ jprgzN"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      +
+    </button>
+  </div>
+  <div
+    className="sc-AxhUy kqetBS"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      -
+    </button>
+  </div>
+  <div
+    className="sc-AxhCb dgwgFs"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      -
+    </button>
+  </div>
+</div>
+`;

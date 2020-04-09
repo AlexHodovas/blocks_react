@@ -1,0 +1,9 @@
+@import './vars.scss';
+
+.td {
+  width: $buttonSize + px;
+  height: $buttonSize + px;
+  background-color: $mainColor;
+  border: 1px solid white;
+  padding: 0;
+}

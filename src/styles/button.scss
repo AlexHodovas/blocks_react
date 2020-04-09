@@ -1,0 +1,11 @@
+@import './vars.scss';
+
+.button {
+  width: $buttonSize + px;
+  height: $buttonSize + px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color:white;
+  font-size: 20px;
+}
